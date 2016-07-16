@@ -103,3 +103,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+##
+## Changes were made to complete the makeCacheMatrix and cacheSolve functions. 
+##
